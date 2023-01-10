@@ -7,4 +7,15 @@ Spectral branch
 -------------------------------
 Spectral vision transformer (SVT).
 
-![alt text](./spectral only self-attention 2.png)
+![image](https://github.com/zhouweilian1904/ICPR_2022/blob/main/spectral%20only%20self-attention%202.png)
+
+
+Spatial Branch
+-------------------------------
+Pyramid hierarchical local-global Transformer (PHT).
+
+![image](https://github.com/zhouweilian1904/ICPR_2022/blob/main/whole%20structure.png)
+
+Cross-scale fusion in the PHT
+-------------------------------
+

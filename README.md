@@ -19,3 +19,4 @@ Pyramid hierarchical local-global Transformer (PHT).
 Cross-scale fusion in the PHT
 -------------------------------
 
+![image](https://github.com/zhouweilian1904/ICPR_2022/blob/main/cross%20scale%20fusion.png)

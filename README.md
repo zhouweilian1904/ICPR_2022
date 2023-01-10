@@ -6,4 +6,5 @@ W. Zhou, S. -I. Kamata, Z. Luo and X. Chen, "Hierarchical Unified Spectral-Spati
 Spectral branch
 -------------------------------
 Spectral vision transformer (SVT).
+
 ![alt text](./spectral only self-attention 2.png)
